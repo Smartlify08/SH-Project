@@ -1,0 +1,20 @@
+{
+  "name": "Side-hustle-Capstone-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Side-hustle-Capstone-Project "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartlify08/SH-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smartlify08/SH-Project/issues"
+  },
+  "homepage": "https://github.com/Smartlify08/SH-Project#readme"
+}
