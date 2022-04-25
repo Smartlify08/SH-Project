@@ -1,0 +1,31 @@
+/* Style guide */
+main{
+
+    /* primary */
+    background-color: hsl(217,28%,15%);
+    background-color: hsl(218,28%,15%);
+    background-color: hsl(216,53%,9%);
+    background-color: hsl(219,30%,18%);
+
+    /* Accent */
+    background-color: hsl(176,68%,64%);
+    background-color: hsl(198,60%,50%);
+    background-color: hsl(0, 100%, 63%);
+
+    /* Neutral */
+    background-color: hsl(0,0,100);
+
+    /* Typography */
+    /* Body */
+    font-size: 14px;
+
+    /* Headings, CTA, Header Navigation */
+    /* font-family: Raleway; */
+    font-weight: 400;
+    font-weight: 700;
+
+    /* Icons */
+    /* Font awesome */
+    /* Icomoon
+        ionicons */
+}
